@@ -1,4 +1,4 @@
-import { Board } from "./components/DisplayBoard";
+import { Board } from "./components/Board";
 import { DisplayValues } from "./components/DisplayValues";
 import { GameStatus } from "./components/GameStatus";
 import "./game.css";
